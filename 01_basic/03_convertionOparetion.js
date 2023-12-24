@@ -27,3 +27,13 @@ let someNumber = 33
 let StringNumber = String(someNumber)
 console.log(StringNumber)
 console.log(typeof StringNumber);
+
+// ============================== Operation ===============================
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**2)
+// console.log(2/2)
+// console.log(2%2)
+
